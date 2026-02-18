@@ -1,6 +1,6 @@
 # bilibiliShortToLong
 
-## 简单的将哔哩哔哩短链接转为长链接
+## 简单的将哔哩哔哩短链接转为长链接后端
 
 - **GET请求**
 http://localhost:5051/api/short2long?url=https://b23.tv/xxxxxx
