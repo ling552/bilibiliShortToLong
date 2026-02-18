@@ -4,7 +4,7 @@ const axios = require('axios');
 const app = express();
 app.use(express.json());
 
-const PORT = 5051;
+const PORT = 80;
 
 // 同时支持 GET 和 POST
 app.all('/api/short2long', async (req, res) => {
@@ -46,4 +46,5 @@ app.all('/api/short2long', async (req, res) => {
 
 app.listen(PORT, () => {
   console.log(`服务已启动：http://localhost:${PORT}`);
+
 });
