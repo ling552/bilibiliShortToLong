@@ -1,0 +1,16 @@
+{
+  "name": "bilibilishorttolong",
+  "version": "1.0.0",
+  "description": "make bilibili short url to long url",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "author": "Ling",
+  "license": "MIT",
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}
