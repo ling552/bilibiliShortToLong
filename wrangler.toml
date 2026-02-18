@@ -1,8 +1,9 @@
 name = 'bilibilishorttolong'
 main = "index.js"
-compatibility_date = "2026-02-18"
+compatibility_date = "2023-01-01"
 
 [placement]
 mode = "smart"
+
 
 
