@@ -1,0 +1,17 @@
+{
+  "name": "bilibiliShortToLong",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.13.5",
+    "express": "^5.2.1",
+    "yarn": "^1.22.22"
+  }
+}
