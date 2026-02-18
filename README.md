@@ -23,4 +23,4 @@ http://link.com?url=https://b23.tv/XXXXXXXX
 ```
 ### 使用Cloudflare Workers
 fork本项目
-打开cloudflare并打开**Works路由**界面，新建Works，使用Continue with Github，登录Github同时选择本项目fork。
+打开cloudflare并打开**Workers 和 Pages**界面，新建Works，使用Continue with Github，登录Github同时选择本项目fork。
