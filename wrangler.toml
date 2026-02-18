@@ -1,6 +1,7 @@
-name = "bilibili-short-to-long"
+name = 'bilibilishorttolong'
 main = "index.js"
-compatibility_date = "2023-01-01"
+compatibility_date = "2026-02-018"
 
 [placement]
 mode = "smart"
+
